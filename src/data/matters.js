@@ -1113,7 +1113,7 @@ const MATTERS = {
     group: mg.modelSystems,
 
     prerequisites: [[2025970, 2019082]], 
-    nextMatters: [2025969, 2025987],
+    nextMatters: [2025987],
     optatives: [2015173],
   },
   
